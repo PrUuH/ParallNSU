@@ -1,0 +1,4 @@
+/home/d.bakov/ParallNSU/2ndTask/2/CMakeFiles/main.dir
+/home/d.bakov/ParallNSU/2ndTask/2/CMakeFiles/node.dir
+/home/d.bakov/ParallNSU/2ndTask/2/CMakeFiles/edit_cache.dir
+/home/d.bakov/ParallNSU/2ndTask/2/CMakeFiles/rebuild_cache.dir

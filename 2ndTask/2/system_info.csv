@@ -1,0 +1,11 @@
+Parameter,Value
+CPU Architecture,                         x86_64
+CPU Model Name,                           Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+Total CPUs,                    20-39,60-79
+NUMA Nodes,2
+Memory Node 0, 385636 MB
+Memory Node 1, 387008 MB
+Server Name,ProLiant XL270d Gen10
+
+OS Name,jammy
+OS Version,22.04.5 LTS (Jammy Jellyfish)
